@@ -1,5 +1,4 @@
 ﻿using System.Runtime.InteropServices.JavaScript;
-using Newtonsoft.Json.Linq;
 using xetiumAPI.Interfaces;
 using xetiumAPI.Models;
 using xetiumAPI.ServerApp.Dal;
